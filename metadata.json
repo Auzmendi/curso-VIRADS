@@ -1,0 +1,5 @@
+{
+  "name": "CURSO VIRADS",
+  "description": "Una aplicación web para la evaluación de la precisión diagnóstica del sistema VIRADS en la detección de cáncer de vejiga, permitiendo a los usuarios cargar datos, realizar evaluaciones y analizar los resultados con métricas de diagnóstico.",
+  "requestFramePermissions": []
+}
