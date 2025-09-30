@@ -1,1 +1,0 @@
-Este es un archivo para comprobar si hay conexión y todos los permisos están correctos.
